@@ -1,0 +1,3 @@
+https://github.com/Featuretools
+https://blog.featurelabs.com/deep-feature-synthesis/
+
