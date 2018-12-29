@@ -1,0 +1,3 @@
+https://www.kaggle.com/martinpiotte/whale-recognition-model-with-score-0-78563/notebook
+http://www.phash.org/
+GAN idea
